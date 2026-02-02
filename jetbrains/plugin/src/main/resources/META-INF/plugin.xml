@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.ferrous.theme</id>
     <name>Ferrous</name>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <vendor email="omeryilmaz@users.noreply.github.com" url="https://github.com/omrylmz/ferrous">Omer Yilmaz</vendor>
     <description><![CDATA[
         <h3>About</h3>

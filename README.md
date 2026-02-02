@@ -46,7 +46,7 @@ If you only want the syntax colors without the full UI theme:
 **Option 2: Manual Installation**
 Download `.vsix` from [Releases](https://github.com/omrylmz/ferrous/releases), then:
 ```bash
-code --install-extension ferrous-1.0.0.vsix
+code --install-extension ferrous-1.0.1.vsix
 ```
 
 ## Color Palette
