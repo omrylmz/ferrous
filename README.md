@@ -49,6 +49,20 @@ Download `.vsix` from [Releases](https://github.com/omrylmz/ferrous/releases), t
 code --install-extension ferrous-1.0.1.vsix
 ```
 
+## Screenshots
+
+### JetBrains
+
+| Coal | Navy | Ayu |
+|------|------|-----|
+| ![Coal](screenshots/jetbrains-coal.png) | ![Navy](screenshots/jetbrains-navy.png) | ![Ayu](screenshots/jetbrains-ayu.png) |
+
+### VS Code
+
+| Coal | Navy | Ayu |
+|------|------|-----|
+| ![Coal](screenshots/vscode-coal.png) | ![Navy](screenshots/vscode-navy.png) | ![Ayu](screenshots/vscode-ayu.png) |
+
 ## Color Palette
 
 ### Coal Theme (Tomorrow Night)
