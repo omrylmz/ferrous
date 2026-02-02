@@ -1,0 +1,23 @@
+{
+  "name": "Ferrous Navy",
+  "dark": true,
+  "author": "Omer Yilmaz",
+  "editorScheme": "/colorSchemes/Ferrous_Navy.xml",
+  "ui": {
+    "*": {
+      "background": "#161923",
+      "foreground": "#c8c9db",
+      "disabledBackground": "#282e40",
+      "inactiveBackground": "#1d1f21",
+      "selectionBackground": "#2b79a2",
+      "selectionInactiveBackground": "#373b50",
+      "lightSelectionBackground": "#373b50",
+      "lightSelectionInactiveBackground": "#282e40",
+      "borderColor": "#2d334f",
+      "disabledBorderColor": "#282d3f",
+      "separatorForeground": "#2d334f",
+      "separatorColor": "#2d334f",
+      "lineSeparatorColor": "#2d334f"
+    }
+  }
+}

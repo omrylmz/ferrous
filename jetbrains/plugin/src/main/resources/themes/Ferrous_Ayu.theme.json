@@ -1,0 +1,23 @@
+{
+  "name": "Ferrous Ayu",
+  "dark": true,
+  "author": "Omer Yilmaz",
+  "editorScheme": "/colorSchemes/Ferrous_Ayu.xml",
+  "ui": {
+    "*": {
+      "background": "#14191f",
+      "foreground": "#c8c9db",
+      "disabledBackground": "#1f2530",
+      "inactiveBackground": "#191f26",
+      "selectionBackground": "#ffb454",
+      "selectionInactiveBackground": "#273747",
+      "lightSelectionBackground": "#273747",
+      "lightSelectionInactiveBackground": "#1f2530",
+      "borderColor": "#2d334f",
+      "disabledBorderColor": "#14191f",
+      "separatorForeground": "#2d334f",
+      "separatorColor": "#2d334f",
+      "lineSeparatorColor": "#2d334f"
+    }
+  }
+}

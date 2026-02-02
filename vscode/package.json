@@ -1,0 +1,49 @@
+{
+  "name": "ferrous",
+  "displayName": "Ferrous",
+  "description": "The official Rust Book (mdbook) color scheme for VS Code. Three dark variants: Coal (darkest), Navy (deep blue), and Ayu (warm amber). Perfect for Rust developers.",
+  "version": "1.0.0",
+  "publisher": "omrylmz",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/omrylmz/ferrous"
+  },
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "rust",
+    "rust-book",
+    "mdbook",
+    "coal",
+    "navy",
+    "ayu",
+    "tomorrow-night",
+    "rustdoc"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ferrous Coal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ferrous-coal.json"
+      },
+      {
+        "label": "Ferrous Navy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ferrous-navy.json"
+      },
+      {
+        "label": "Ferrous Ayu",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ferrous-ayu.json"
+      }
+    ]
+  }
+}
