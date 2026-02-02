@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="rustGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#de935f"/>
+      <stop offset="100%" style="stop-color:#cc6666"/>
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="128" height="128" rx="24" fill="#1d1f21"/>
+  <!-- Gear - Rust logo inspired -->
+  <g transform="translate(64,64) scale(3.2)">
+    <!-- Outer gear ring with teeth -->
+    <path d="M0,-13 L1.5,-13 L2,-11 L4,-11.3 L5,-13 L6.3,-12.3 L5.3,-10.3 L7,-9 L9,-10.5 L10,-9 L8.3,-7 L9.3,-5.3 L11.3,-5.5 L11.5,-4 L9.5,-3.5 L9.5,-1.5 L11.5,-1 L11.3,0.5 L9.3,0.3 L8.3,2 L10,4 L9,5.5 L7,4 L5.3,5.3 L6.3,7.3 L5,8 L4,6.3 L2,6.5 L1.5,8.5 L0,8.5 L-0.5,6.5 L-2.5,6.3 L-3.5,8 L-5,7.3 L-4,5.3 L-5.7,4 L-7.7,5.5 L-8.7,4 L-7,2 L-8,0.3 L-10,0.5 L-10.2,-1 L-8.2,-1.5 L-8.2,-3.5 L-10.2,-4 L-10,-5.5 L-8,-5.3 L-7,-7 L-8.7,-9 L-7.7,-10.5 L-5.7,-9 L-4,-10.3 L-5,-12.3 L-3.5,-13 L-2.5,-11.3 L-0.5,-11 L0,-13 Z"
+          fill="url(#rustGrad)"/>
+    <!-- Inner circle -->
+    <circle cx="0" cy="0" r="5" fill="#81a2be"/>
+    <!-- Center hole -->
+    <circle cx="0" cy="0" r="2" fill="#1d1f21"/>
+  </g>
+</svg>
