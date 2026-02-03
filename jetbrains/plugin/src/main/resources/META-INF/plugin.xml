@@ -32,6 +32,12 @@
     ]]></description>
 
     <change-notes><![CDATA[
+        <h3>1.0.4</h3>
+        <ul>
+            <li>Added Python-specific syntax highlighting for PyCharm</li>
+            <li>Fixed keyword arguments showing in red instead of neutral foreground</li>
+            <li>Added support for decorators, builtins, and self parameter</li>
+        </ul>
         <h3>1.0.3</h3>
         <ul>
             <li>Synced UI background colors between JetBrains and VS Code themes</li>
