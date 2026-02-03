@@ -3,7 +3,7 @@ plugins {
 }
 
 group = "com.ferrous"
-version = "1.0.1"
+version = providers.gradleProperty("pluginVersion").get()
 
 repositories {
     mavenCentral()
