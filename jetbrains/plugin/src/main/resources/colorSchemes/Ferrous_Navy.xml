@@ -240,6 +240,47 @@
         <option name="FOREGROUND" value="81a2be" />
       </value>
     </option>
+    <option name="PY.BUILTIN_NAME">
+      <value>
+        <option name="FOREGROUND" value="81a2be" />
+      </value>
+    </option>
+    <option name="PY.DECORATOR">
+      <value>
+        <option name="FOREGROUND" value="b294bb" />
+      </value>
+    </option>
+    <option name="PY.FUNC_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="81a2be" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="c5c8c6" />
+      </value>
+    </option>
+    <option name="PY.PREDEFINED_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="81a2be" />
+      </value>
+    </option>
+    <option name="PY.PREDEFINED_USAGE">
+      <value>
+        <option name="FOREGROUND" value="81a2be" />
+      </value>
+    </option>
+    <option name="PY.SELF_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="c5c8c6" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PY.STRING">
+      <value>
+        <option name="FOREGROUND" value="b5bd68" />
+      </value>
+    </option>
     <option name="RUST_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="b294bb" />
