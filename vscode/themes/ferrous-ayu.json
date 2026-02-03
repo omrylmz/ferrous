@@ -2,7 +2,7 @@
   "name": "Ferrous Ayu",
   "type": "dark",
   "colors": {
-    "editor.background": "#191f26",
+    "editor.background": "#0f151a",
     "editor.foreground": "#e6e1cf",
     "editor.lineHighlightBackground": "#1f2530",
     "editor.selectionBackground": "#273747",
@@ -27,17 +27,17 @@
     "sideBar.foreground": "#c8c9db",
     "sideBar.border": "#2d334f",
     "sideBarTitle.foreground": "#c8c9db",
-    "sideBarSectionHeader.background": "#191f26",
+    "sideBarSectionHeader.background": "#0f151a",
     "sideBarSectionHeader.foreground": "#c8c9db",
     "sideBarSectionHeader.border": "#2d334f",
 
     "list.activeSelectionBackground": "#ffb454",
     "list.activeSelectionForeground": "#14191f",
     "list.inactiveSelectionBackground": "#273747",
-    "list.hoverBackground": "#191f26",
+    "list.hoverBackground": "#0f151a",
     "list.focusBackground": "#ffb454",
 
-    "tab.activeBackground": "#191f26",
+    "tab.activeBackground": "#0f151a",
     "tab.activeForeground": "#e6e1cf",
     "tab.inactiveBackground": "#14191f",
     "tab.inactiveForeground": "#5c6773",
@@ -59,7 +59,7 @@
     "statusBar.debuggingForeground": "#14191f",
     "statusBar.noFolderBackground": "#14191f",
     "statusBar.border": "#2d334f",
-    "statusBarItem.hoverBackground": "#191f26",
+    "statusBarItem.hoverBackground": "#0f151a",
     "statusBarItem.remoteBackground": "#ffb454",
     "statusBarItem.remoteForeground": "#14191f",
 
@@ -69,9 +69,9 @@
     "panelTitle.activeForeground": "#c8c9db",
     "panelTitle.inactiveForeground": "#737480",
 
-    "terminal.background": "#191f26",
+    "terminal.background": "#0f151a",
     "terminal.foreground": "#e6e1cf",
-    "terminal.ansiBlack": "#191f26",
+    "terminal.ansiBlack": "#0f151a",
     "terminal.ansiRed": "#ff7733",
     "terminal.ansiGreen": "#b8cc52",
     "terminal.ansiYellow": "#ffee99",
@@ -126,7 +126,7 @@
     "editorSuggestWidget.selectedBackground": "#ffb454",
 
     "peekView.border": "#ffb454",
-    "peekViewEditor.background": "#191f26",
+    "peekViewEditor.background": "#0f151a",
     "peekViewResult.background": "#14191f",
     "peekViewTitle.background": "#1f2530",
 
@@ -201,14 +201,14 @@
       "name": "Variable",
       "scope": ["variable", "variable.other"],
       "settings": {
-        "foreground": "#ff7733"
+        "foreground": "#e6e1cf"
       }
     },
     {
       "name": "Parameter",
       "scope": ["variable.parameter"],
       "settings": {
-        "foreground": "#ffee99"
+        "foreground": "#e6e1cf"
       }
     },
     {
@@ -236,7 +236,7 @@
       "name": "Attribute",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#ff7733"
+        "foreground": "#e6e1cf"
       }
     },
     {
@@ -293,7 +293,7 @@
       "name": "CSS Selector",
       "scope": ["entity.other.attribute-name.class.css", "entity.other.attribute-name.id.css"],
       "settings": {
-        "foreground": "#ff7733"
+        "foreground": "#ffee99"
       }
     },
     {
@@ -321,7 +321,7 @@
       "name": "Regex",
       "scope": ["string.regexp"],
       "settings": {
-        "foreground": "#ff7733"
+        "foreground": "#b8cc52"
       }
     },
     {

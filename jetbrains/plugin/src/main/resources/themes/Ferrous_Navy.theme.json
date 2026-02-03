@@ -8,7 +8,7 @@
       "background": "#161923",
       "foreground": "#c8c9db",
       "disabledBackground": "#282e40",
-      "inactiveBackground": "#1d1f21",
+      "inactiveBackground": "#161923",
       "selectionBackground": "#2b79a2",
       "selectionInactiveBackground": "#373b50",
       "lightSelectionBackground": "#373b50",
