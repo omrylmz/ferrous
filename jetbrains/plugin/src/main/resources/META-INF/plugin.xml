@@ -32,6 +32,13 @@
     ]]></description>
 
     <change-notes><![CDATA[
+        <h3>1.0.5</h3>
+        <ul>
+            <li>Complete token coverage to match VS Code themes</li>
+            <li>Added explicit definitions for all variable types (local, global, reassigned)</li>
+            <li>Fixed remaining red highlights from Darcula fallback</li>
+            <li>Added interface, method, tag, and template token support</li>
+        </ul>
         <h3>1.0.4</h3>
         <ul>
             <li>Added Python-specific syntax highlighting for PyCharm</li>
