@@ -14,15 +14,15 @@
   <colors>
     <option name="CARET_COLOR" value="c5c8c6" />
     <option name="CARET_ROW_COLOR" value="282a2e" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="1d1f21" />
-    <option name="GUTTER_BACKGROUND" value="1d1f21" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="131617" />
+    <option name="GUTTER_BACKGROUND" value="131617" />
     <option name="SELECTION_BACKGROUND" value="373b41" />
     <option name="WHITESPACES" value="373b41" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="cc6666" />
+        <option name="FOREGROUND" value="c5c8c6" />
       </value>
     </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
@@ -38,7 +38,7 @@
     </option>
     <option name="CONSOLE_BLACK_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="1d1f21" />
+        <option name="FOREGROUND" value="131617" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_OUTPUT">
@@ -180,7 +180,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="de935f" />
+        <option name="FOREGROUND" value="c5c8c6" />
       </value>
     </option>
     <option name="DEFAULT_SEMICOLON">
@@ -202,18 +202,18 @@
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="cc6666" />
+        <option name="FOREGROUND" value="c5c8c6" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
     <option name="HTML_TAG">
       <value>
-        <option name="FOREGROUND" value="cc6666" />
+        <option name="FOREGROUND" value="81a2be" />
       </value>
     </option>
     <option name="HTML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="cc6666" />
+        <option name="FOREGROUND" value="81a2be" />
       </value>
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
@@ -225,7 +225,7 @@
     </option>
     <option name="JSON.PROPERTY_KEY">
       <value>
-        <option name="FOREGROUND" value="cc6666" />
+        <option name="FOREGROUND" value="81a2be" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
@@ -237,7 +237,7 @@
     </option>
     <option name="PROPERTIES.KEY">
       <value>
-        <option name="FOREGROUND" value="cc6666" />
+        <option name="FOREGROUND" value="81a2be" />
       </value>
     </option>
     <option name="RUST_ATTRIBUTE">
@@ -310,12 +310,12 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="c5c8c6" />
-        <option name="BACKGROUND" value="1d1f21" />
+        <option name="BACKGROUND" value="131617" />
       </value>
     </option>
     <option name="YAML_ANCHOR">
       <value>
-        <option name="FOREGROUND" value="cc6666" />
+        <option name="FOREGROUND" value="81a2be" />
       </value>
     </option>
   </attributes>

@@ -14,15 +14,15 @@
   <colors>
     <option name="CARET_COLOR" value="ffb454" />
     <option name="CARET_ROW_COLOR" value="1f2530" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="191f26" />
-    <option name="GUTTER_BACKGROUND" value="191f26" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="0f151a" />
+    <option name="GUTTER_BACKGROUND" value="0f151a" />
     <option name="SELECTION_BACKGROUND" value="273747" />
     <option name="WHITESPACES" value="2d334f" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ff7733" />
+        <option name="FOREGROUND" value="e6e1cf" />
       </value>
     </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
@@ -38,7 +38,7 @@
     </option>
     <option name="CONSOLE_BLACK_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="191f26" />
+        <option name="FOREGROUND" value="0f151a" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_OUTPUT">
@@ -180,7 +180,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="ffee99" />
+        <option name="FOREGROUND" value="e6e1cf" />
       </value>
     </option>
     <option name="DEFAULT_SEMICOLON">
@@ -202,7 +202,7 @@
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="ff7733" />
+        <option name="FOREGROUND" value="e6e1cf" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
@@ -310,7 +310,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="e6e1cf" />
-        <option name="BACKGROUND" value="191f26" />
+        <option name="BACKGROUND" value="0f151a" />
       </value>
     </option>
     <option name="YAML_ANCHOR">
