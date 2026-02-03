@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.ferrous.theme</id>
     <name>Ferrous</name>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <vendor email="omeryilmaz@users.noreply.github.com" url="https://github.com/omrylmz/ferrous">Omer Yilmaz</vendor>
     <description><![CDATA[
         <h3>About</h3>
@@ -32,6 +32,16 @@
     ]]></description>
 
     <change-notes><![CDATA[
+        <h3>1.0.2</h3>
+        <ul>
+            <li>Refined background colors for improved contrast and readability</li>
+            <li>Normalized parameter and attribute colors for consistency</li>
+            <li>Updated console background and gutter colors</li>
+        </ul>
+        <h3>1.0.1</h3>
+        <ul>
+            <li>Added plugin icons for VS Code and JetBrains marketplaces</li>
+        </ul>
         <h3>1.0.0</h3>
         <ul>
             <li>Initial release</li>
