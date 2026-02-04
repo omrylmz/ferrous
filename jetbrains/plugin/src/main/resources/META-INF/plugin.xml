@@ -5,7 +5,7 @@
     <vendor email="omeryilmaz@users.noreply.github.com" url="https://github.com/omrylmz/ferrous">Omer Yilmaz</vendor>
     <description><![CDATA[
         <h3>About</h3>
-        <p>Ferrous brings the official <b>Rust Book (mdbook)</b> color scheme to your JetBrains IDE.
+        <p>Ferrous brings the <b>Rust Book (mdbook)</b> color scheme to your JetBrains IDE.
         This is a faithful port of the three dark themes from the Rust documentation:
         Coal, Navy, and Ayu.</p>
         <p>Perfect for Rust developers who love the familiar look of the Rust Book!</p>
@@ -64,7 +64,7 @@
         <ul>
             <li>Initial release</li>
             <li>Three themes: Coal, Navy, and Ayu</li>
-            <li>Based on the official Rust Book (mdbook) color schemes</li>
+            <li>Based on the Rust Book (mdbook) color schemes</li>
         </ul>
     ]]></change-notes>
 

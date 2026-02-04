@@ -1,6 +1,6 @@
 # Ferrous
 
-The official [Rust Book (mdbook)](https://doc.rust-lang.org/book/) color scheme for VS Code and JetBrains IDEs.
+The [Rust Book (mdbook)](https://doc.rust-lang.org/book/) color scheme for VS Code and JetBrains IDEs.
 
 A faithful port of the three dark themes from the Rust documentation - perfect for Rust developers who love the familiar look of the Rust Book.
 

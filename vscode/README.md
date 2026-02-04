@@ -1,6 +1,6 @@
 # Ferrous
 
-The official [Rust Book (mdbook)](https://doc.rust-lang.org/book/) color scheme for VS Code.
+The [Rust Book (mdbook)](https://doc.rust-lang.org/book/) color scheme for VS Code.
 
 ## Themes
 

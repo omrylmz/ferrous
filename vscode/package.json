@@ -1,7 +1,7 @@
 {
   "name": "ferrous",
   "displayName": "Ferrous",
-  "description": "The official Rust Book (mdbook) color scheme for VS Code. Three dark variants: Coal (darkest), Navy (deep blue), and Ayu (warm amber). Perfect for Rust developers.",
+  "description": "The Rust Book (mdbook) color scheme for VS Code. Three dark variants: Coal (darkest), Navy (deep blue), and Ayu (warm amber). Perfect for Rust developers.",
   "version": "1.0.5",
   "publisher": "omrylmz",
   "license": "MIT",
