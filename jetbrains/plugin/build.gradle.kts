@@ -26,6 +26,8 @@ dependencies {
 }
 
 intellijPlatform {
+    buildSearchableOptions = false
+
     pluginConfiguration {
         name = "Ferrous"
         ideaVersion {
