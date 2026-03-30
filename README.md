@@ -17,10 +17,9 @@ A faithful port of the three dark themes from the Rust documentation - perfect f
 ### JetBrains IDEs (IntelliJ, RustRover, WebStorm, PyCharm, etc.)
 
 **Option 1: Marketplace (Recommended)**
-1. Go to **Settings** → **Plugins** → **Marketplace**
-2. Search for "Ferrous"
-3. Click **Install** and restart
-4. Go to **Settings** → **Appearance** → **Theme** and select a Ferrous theme
+1. Visit [Ferrous on JetBrains Marketplace](https://plugins.jetbrains.com/plugin/30035-ferrous/)
+2. Click **Install** and restart your IDE
+3. Go to **Settings** → **Appearance** → **Theme** and select a Ferrous theme
 
 **Option 2: Manual Plugin Install**
 1. Download the latest `.zip` from [Releases](https://github.com/omrylmz/ferrous/releases)
